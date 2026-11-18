@@ -1,0 +1,8 @@
+torch
+streamlit
+pymupdf
+chromadb
+sentence-transformers
+openai
+pandas
+openpyxl
